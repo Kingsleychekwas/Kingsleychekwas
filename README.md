@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kingsleychekwas
 - 👀 I’m interested in javascript, css and html
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with various software engineers like and create something that could change the world for the better
 - 📫 How to reach me, you can reach me gmail kchituru@gmail.com
 
 <!---
